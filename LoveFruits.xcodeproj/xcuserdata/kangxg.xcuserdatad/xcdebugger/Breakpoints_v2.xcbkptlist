@@ -2281,13 +2281,13 @@
                   symbolName = "-[KGQRCodeVCTR showDetectedObjects]"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/KGBase/Common/KGRefresh/KGQRCodeVCTR.m"
-                  timestampString = "508693379.988444"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/KGBase/Common/KGRefresh/KGQRCodeVCTR.m"
+                  timestampString = "527345021.481318"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "332"
                   endingLineNumber = "332"
-                  offsetFromSymbolStart = "64">
+                  offsetFromSymbolStart = "34">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -2296,13 +2296,13 @@
                   symbolName = "-[KGQRCodeVCTR showDetectedObjects]"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/KGBase/Common/KGRefresh/KGQRCodeVCTR.m"
-                  timestampString = "508693379.989759"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/KGBase/Common/KGRefresh/KGQRCodeVCTR.m"
+                  timestampString = "527345021.483003"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "332"
                   endingLineNumber = "332"
-                  offsetFromSymbolStart = "84">
+                  offsetFromSymbolStart = "64">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -3361,38 +3361,6 @@
             endingLineNumber = "728"
             landmarkName = "-appendPartWithFileData:name:fileName:mimeType:"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[AFStreamingMultipartFormData appendPartWithFileData:name:fileName:mimeType:]"
-                  moduleName = "LoveFruits"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
-                  timestampString = "508693380.03781"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "728"
-                  endingLineNumber = "728"
-                  offsetFromSymbolStart = "144">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[AFStreamingMultipartFormData appendPartWithFileData:name:fileName:mimeType:]"
-                  moduleName = "LoveFruits"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
-                  timestampString = "508693380.039074"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "728"
-                  endingLineNumber = "728"
-                  offsetFromSymbolStart = "176">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -7433,13 +7401,13 @@
                   symbolName = "-[AFHTTPRequestOperationManager POST:parameters:constructingBodyWithBlock:success:failure:]"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFHTTPRequestOperationManager.m"
-                  timestampString = "508693380.14598"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Vender/AFNetworking/AFHTTPRequestOperationManager.m"
+                  timestampString = "527345021.701579"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "199"
                   endingLineNumber = "199"
-                  offsetFromSymbolStart = "528">
+                  offsetFromSymbolStart = "390">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7448,13 +7416,13 @@
                   symbolName = "__91-[AFHTTPRequestOperationManager POST:parameters:constructingBodyWithBlock:success:failure:]_block_invoke"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFHTTPRequestOperationManager.m"
-                  timestampString = "508693380.147259"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Vender/AFNetworking/AFHTTPRequestOperationManager.m"
+                  timestampString = "527345021.703039"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "199"
-                  endingLineNumber = "199"
-                  offsetFromSymbolStart = "20">
+                  startingLineNumber = "200"
+                  endingLineNumber = "200"
+                  offsetFromSymbolStart = "4">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -7481,13 +7449,13 @@
                   symbolName = "-[AFHTTPRequestSerializer multipartFormRequestWithMethod:URLString:parameters:constructingBodyWithBlock:error:]"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
-                  timestampString = "508693380.149884"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
+                  timestampString = "527345021.70795"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "353"
                   endingLineNumber = "353"
-                  offsetFromSymbolStart = "904">
+                  offsetFromSymbolStart = "182">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7496,13 +7464,13 @@
                   symbolName = "__Block_byref_object_copy_"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
-                  timestampString = "508693380.151132"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
+                  timestampString = "527345021.70943"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "353"
                   endingLineNumber = "353"
-                  offsetFromSymbolStart = "24">
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -7511,13 +7479,13 @@
                   symbolName = "__Block_byref_object_dispose_"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
-                  timestampString = "508693380.152339"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Vender/AFNetworking/AFURLRequestSerialization.m"
+                  timestampString = "527345021.711438"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "353"
                   endingLineNumber = "353"
-                  offsetFromSymbolStart = "20">
+                  offsetFromSymbolStart = "4">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -9592,13 +9560,13 @@
                   symbolName = "__33-[KGADViewController loadADView:]_block_invoke_2.70"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/AD/KGADViewController.m"
-                  timestampString = "508693380.856163"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/AD/KGADViewController.m"
+                  timestampString = "527345022.102059"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "169"
                   endingLineNumber = "169"
-                  offsetFromSymbolStart = "152">
+                  offsetFromSymbolStart = "101">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -9607,13 +9575,13 @@
                   symbolName = "__33-[KGADViewController loadADView:]_block_invoke_3"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/AD/KGADViewController.m"
-                  timestampString = "508693380.857429"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/AD/KGADViewController.m"
+                  timestampString = "527345022.103551"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "169"
-                  endingLineNumber = "169"
-                  offsetFromSymbolStart = "32">
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "13">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -9637,31 +9605,16 @@
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "__33-[KGADViewController loadADView:]_block_invoke_2"
-                  moduleName = "LoveFruits"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/AD/KGADViewController.m"
-                  timestampString = "508693380.860134"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "149"
-                  endingLineNumber = "149"
-                  offsetFromSymbolStart = "64">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
                   symbolName = "__copy_helper_block_.63"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/AD/KGADViewController.m"
-                  timestampString = "508693380.861377"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/AD/KGADViewController.m"
+                  timestampString = "527345022.107681"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "149"
-                  endingLineNumber = "149"
-                  offsetFromSymbolStart = "52">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -9670,13 +9623,13 @@
                   symbolName = "__destroy_helper_block_.64"
                   moduleName = "LoveFruits"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/kangxg/Desktop/myWork/Code/Ios/LoveFruits/LoveFruits/Class/AD/KGADViewController.m"
-                  timestampString = "508693380.862717"
+                  urlString = "file:///Users/kangxg/Desktop/iOSGit/loveFruits/LoveFruits/Class/AD/KGADViewController.m"
+                  timestampString = "527345022.109071"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "149"
-                  endingLineNumber = "149"
-                  offsetFromSymbolStart = "28">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
             </Locations>
          </BreakpointContent>

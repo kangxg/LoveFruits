@@ -237,7 +237,6 @@
 		409269811E2689D200C33EFA /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 409269801E2689D200C33EFA /* CoreLocation.framework */; };
 		409269861E268E5700C33EFA /* loading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 409269841E268E5700C33EFA /* loading@2x.png */; };
 		409269871E268E5700C33EFA /* loading@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 409269851E268E5700C33EFA /* loading@3x.png */; };
-		4092698B1E268E8A00C33EFA /* KGAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 4092698A1E268E8A00C33EFA /* KGAnimationView.m */; };
 		4092698C1E27BF1D00C33EFA /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40CB7EE31E1A04ED008B54D5 /* CFNetwork.framework */; };
 		409269901E2A25B600C33EFA /* MOBFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4092698F1E2A25B600C33EFA /* MOBFoundation.framework */; };
 		40A8B2371D86FF5600A75DF0 /* KGProductDetailsViewModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 40A8B2361D86FF5600A75DF0 /* KGProductDetailsViewModel.m */; };
@@ -493,6 +492,7 @@
 		40F92C481D8FAC77009409DE /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40F92C471D8FAC77009409DE /* MessageUI.framework */; };
 		40F92C4A1D8FAC80009409DE /* JavaScriptCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 40F92C491D8FAC80009409DE /* JavaScriptCore.framework */; };
 		40F92C4C1D8FAC8B009409DE /* libstdc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 40F92C4B1D8FAC8B009409DE /* libstdc++.tbd */; };
+		40FBE6121F6EA47000C6A395 /* KGAnimationView.m in Sources */ = {isa = PBXBuildFile; fileRef = 40FBE6111F6EA47000C6A395 /* KGAnimationView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -921,8 +921,6 @@
 		409269821E2689DF00C33EFA /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
 		409269841E268E5700C33EFA /* loading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "loading@2x.png"; path = "../../../LoveFruitsPf/LoveFruits/images/loading@2x.png"; sourceTree = "<group>"; };
 		409269851E268E5700C33EFA /* loading@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "loading@3x.png"; path = "../../../LoveFruitsPf/LoveFruits/images/loading@3x.png"; sourceTree = "<group>"; };
-		409269891E268E8A00C33EFA /* KGAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KGAnimationView.h; sourceTree = "<group>"; };
-		4092698A1E268E8A00C33EFA /* KGAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KGAnimationView.m; sourceTree = "<group>"; };
 		4092698F1E2A25B600C33EFA /* MOBFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MOBFoundation.framework; sourceTree = "<group>"; };
 		40A8B2351D86FF5600A75DF0 /* KGProductDetailsViewModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KGProductDetailsViewModel.h; sourceTree = "<group>"; };
 		40A8B2361D86FF5600A75DF0 /* KGProductDetailsViewModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KGProductDetailsViewModel.m; sourceTree = "<group>"; };
@@ -1360,6 +1358,8 @@
 		40F92C4B1D8FAC8B009409DE /* libstdc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libstdc++.tbd"; path = "usr/lib/libstdc++.tbd"; sourceTree = SDKROOT; };
 		40F92C4D1D8FACA9009409DE /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
 		40F92C4E1D8FACA9009409DE /* AddressBookUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBookUI.framework; path = System/Library/Frameworks/AddressBookUI.framework; sourceTree = SDKROOT; };
+		40FBE6101F6EA47000C6A395 /* KGAnimationView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KGAnimationView.h; path = ../../../../../../../KGAnimationView.h; sourceTree = "<group>"; };
+		40FBE6111F6EA47000C6A395 /* KGAnimationView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KGAnimationView.m; path = ../../../../../../../KGAnimationView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -2593,8 +2593,8 @@
 		409269881E268E8A00C33EFA /* animation */ = {
 			isa = PBXGroup;
 			children = (
-				409269891E268E8A00C33EFA /* KGAnimationView.h */,
-				4092698A1E268E8A00C33EFA /* KGAnimationView.m */,
+				40FBE6101F6EA47000C6A395 /* KGAnimationView.h */,
+				40FBE6111F6EA47000C6A395 /* KGAnimationView.m */,
 			);
 			name = animation;
 			path = ../../../../../LoveFruitsPf/LoveFruits/Class/KGBase/Common/animation;
@@ -4099,7 +4099,7 @@
 				403699331D92DA78006A9306 /* KGUserModelManager.m in Sources */,
 				40AA637C1E0AE86F0089236C /* BCQueryBillsResp.m in Sources */,
 				4078D1391CDC3E6A00A6ECB2 /* MJRefreshAutoFooter.m in Sources */,
-				4092698B1E268E8A00C33EFA /* KGAnimationView.m in Sources */,
+				40FBE6121F6EA47000C6A395 /* KGAnimationView.m in Sources */,
 				40CB7ED81E194D4E008B54D5 /* KGPayOverVCTR.m in Sources */,
 				40EBEC3F1E05980B002C1C99 /* KGSubmitOrdersModel.m in Sources */,
 				408594451CE31F46006623D5 /* KGShopCarRedDotView.m in Sources */,
