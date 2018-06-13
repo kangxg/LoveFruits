@@ -41,7 +41,7 @@
     [self setAppSubject];
     [self addNotification];
     [self buildKeyWindow];
-    NSLog(@"test");
+    NSLog(@"第二个分支测试");
  
     return YES;
 }
