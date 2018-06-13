@@ -41,7 +41,7 @@
     [self setAppSubject];
     [self addNotification];
     [self buildKeyWindow];
-    NSLog(@"test");
+ 
  
     return YES;
 }
